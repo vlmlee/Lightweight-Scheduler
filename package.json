@@ -1,0 +1,19 @@
+{
+  "name": "lwscheduler",
+  "version": "1.0.0",
+  "description": "A light weight scheduler web component.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vlmlee/Lightweight-Scheduler.git"
+  },
+  "author": "Michael Lee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vlmlee/Lightweight-Scheduler/issues"
+  },
+  "homepage": "https://github.com/vlmlee/Lightweight-Scheduler#readme"
+}
